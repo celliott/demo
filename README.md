@@ -1,5 +1,5 @@
 # demo
-kubernetes demo
+kubernetes gcp demo
 
 ## Install dependencies
 
